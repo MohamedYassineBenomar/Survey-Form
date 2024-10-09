@@ -1,5 +1,5 @@
 # Survey-Form
 
-using HTML/CSS/JS
+Using HTML/CSS/JS
 
-https://codepen.io/etnad-thunderwood/full/oNvLQrW
+UI : https://codepen.io/etnad-thunderwood/full/oNvLQrW
